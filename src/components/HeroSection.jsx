@@ -5,7 +5,7 @@ export const HeroSection = () => {
   return (
     <div className="flex flex-col items-center mt-2 lg:mt-2">
       <h1 className="text-1xl sm:text-2xl lg:text-3xl text-center tracking-wide mb-20">
-        Design And Code By Harsh Gohil (@harshintech)
+        Design And Code By Harsh Gohil 🍃🤍🕊️ (@harshintech)
       </h1>
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide ">
         VirtualR build tools
