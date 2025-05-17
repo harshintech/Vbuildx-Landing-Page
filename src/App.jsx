@@ -4,8 +4,8 @@ import { HeroSection } from "./components/HeroSection";
 import FeatureSection from "./components/FeatureSection";
 import Workflow from "./components/Workflow";
 import { Pricing } from "./components/Pricing";
-import TestiMonials from "./components/TestiMonials";
 import Footer from "./components/Footer";
+import TestiMonials from "./components/TestiMonials";
 
 export default function App() {
   return (
