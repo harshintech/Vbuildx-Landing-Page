@@ -1,4 +1,5 @@
 import { testimonials } from "../constants";
+
 export const TestiMonials = () => {
   return (
     <div className="mt-20 tracking-wide">
