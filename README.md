@@ -6,7 +6,7 @@ Landing page for **VBuildX** built with React and Tailwind CSS.
 
 ## Live Demo
 
-[https://vbuildx-landing-pagee.vercel.app/](https://vbuildx-landing-pagee.vercel.app/)
+[VBuildX](https://vbuildx-landing-page.vercel.app/)
 
 ---
 
