@@ -1,7 +1,7 @@
 import { testimonials } from "../constants";
 import React from 'react'
 
-const TestiMonials = () => {
+const Testimonialss = () => {
    return (
     <div className="mt-20 tracking-wide">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-10">
@@ -33,4 +33,4 @@ const TestiMonials = () => {
   );
 }
 
-export default TestiMonials;
+export default Testimonialss;
